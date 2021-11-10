@@ -7,3 +7,4 @@
 * Run the application with node index.js
 * Import modules with node.
 * Assigning types to variables.
+* npm install typescript --save-dev
